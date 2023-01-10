@@ -1,0 +1,18 @@
+#page {
+    display: flex;
+}
+
+.profile_details{
+    flex: 1;
+}
+
+.address{
+    display: flex;
+}
+
+
+img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+  }

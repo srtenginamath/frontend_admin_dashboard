@@ -1,0 +1,15 @@
+.layout {
+    color: #455560;
+}
+
+.layout__content {
+    padding-left: 300px;
+    background-color: #fafafb;
+    min-height: 100vh;
+}
+
+.layout__content-main {
+    padding: 30px;
+}
+
+
